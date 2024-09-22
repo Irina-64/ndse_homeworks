@@ -6,3 +6,5 @@
 
 ### [Домашнее задание к занятию «1.5. Http module. Переменные окружения»](https://github.com/Irina-64/ndse_homeworks/blob/005/README.md) 
 
+### [Домашнее задание к занятию «2.1. Express»](https://github.com/Irina-64/ndse_homeworks/blob/006/README.md)
+
